@@ -2,3 +2,5 @@ _site
 .sass-cache
 node_modules
 _drafts
+.jekyll-cache/
+package-lock.json
