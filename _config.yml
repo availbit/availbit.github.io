@@ -9,10 +9,10 @@ username: Availbit
 user_description: Software Developer
 user_title: Software Developer
 email: availbit@gmail.com
-twitter_username:
+#twitter_username:
 github_username:
-gplus_username:
-disqus_username:
+#gplus_username:
+#disqus_username:
 
 # Build settings
 markdown: kramdown
